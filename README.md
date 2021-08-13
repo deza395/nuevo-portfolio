@@ -1,5 +1,5 @@
 <h1>  Portfolio responsive </h1>
-
+<img src="https://github.com/deza395/nuevo-portfolio/blob/main/porfolio.png?raw=true"/>
 
 
 # Secciones 📚
