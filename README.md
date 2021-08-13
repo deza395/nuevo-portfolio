@@ -10,7 +10,7 @@
 ✔️ Contacto\
 <br>
 
-vea el sitio web aqui, **[click here](https://debora-zarate.com/)**
+vea el sitio web haciendo **[click aqui](https://debora-zarate.com/)**
 # Tecnologías usadas 🛠️
 
 - [React](https://reactjs.org/)
