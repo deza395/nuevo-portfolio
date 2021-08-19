@@ -381,31 +381,30 @@ const projectcards = {
     },
 
     {
-      title: "Juegos Mimi",
-      img_path: "neural.gif",
-      description: "Landing Page responsiva profesional realizada con React.",
+      title: "Covid-tracker",
+      img_path: "news.gif",
+      description:
+        "Proyecto de datos de Covid-19 en tiempo real. Incluye Mapa interactivo y gráficas.",
       tags: [
         {
           lang: "react",
-          color: "#8700b0",
+          color: "yellow",
         },
         {
-          lang: "css",
+          lang: "material UI",
           color: "#4257f5",
         },
         {
-          lang: "html",
+          lang: "firebase",
           color: "#ff4b4b",
         },
-        {
-          lang: "Heroku",
-          color: "pink",
-        },
       ],
-      link: "http://juegosinflablesmimi.site/",
-      code: "https://github.com/deza395/mimiLandingPage",
+      link: "https://covid-19-tracker-b9862.web.app/",
+      code: "https://github.com/deza395/covid-tracker",
+
       linkcolor: "white",
     },
+
     {
       title: "Personal blog",
       img_path: "project-03.png",
@@ -574,14 +573,13 @@ const projectcards = {
     },
 
     {
-      title: "wedding",
-      img_path: "news.gif",
-      description:
-        "Template invitación a casamiento realizado con html, javascript y css",
+      title: "Juegos Mimi",
+      img_path: "neural.gif",
+      description: "Landing Page responsiva profesional realizada con React.",
       tags: [
         {
-          lang: "javascript",
-          color: "yellow",
+          lang: "react",
+          color: "#8700b0",
         },
         {
           lang: "css",
@@ -591,10 +589,13 @@ const projectcards = {
           lang: "html",
           color: "#ff4b4b",
         },
+        {
+          lang: "Heroku",
+          color: "pink",
+        },
       ],
-      link: "https://casamiento.debora-zarate.com/",
-      code: "https://github.com/deza395/wedding-web",
-
+      link: "http://juegosinflablesmimi.site/",
+      code: "https://github.com/deza395/mimiLandingPage",
       linkcolor: "white",
     },
   ],
